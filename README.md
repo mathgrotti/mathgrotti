@@ -1,16 +1,12 @@
-## Hi there 👋
+## Olá, sou o Matheus Grotti, estudante de programação e apaixonado por tecnologia!! 😎🚀
 
-<!--
-**mathgrotti/mathgrotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Formado em Gestão de Tecnologia da Informação
+- 💻 Atualmente estudando Java e Python
+- 🤝 Procuro sempre pessoas para fazer networking!
+- 🔗 >>> Meu LinkedIn: https://www.linkedin.com/in/matheusgrotti983/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; align-items: center; justify-content: center; gap: 60px;">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mathgrotti&show_icons=true&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathgrotti&layout=donut&theme=github_dark"/>
+</div>
