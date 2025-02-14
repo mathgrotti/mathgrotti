@@ -1,5 +1,6 @@
 ## Olá, sou o Matheus Grotti, estudante de programação e apaixonado por tecnologia!! 😎🚀
 
+<br>
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🎓 Formado em Gestão de Tecnologia da Informação
 - 💻 Atualmente estudando Java e Python
