@@ -6,7 +6,7 @@
 - 🤝 Procuro sempre pessoas para fazer networking!
 - 🔗 >>> Meu LinkedIn: https://www.linkedin.com/in/matheusgrotti983/
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 60px;">
+<div style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: center; gap: 60px;">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mathgrotti&show_icons=true&theme=github_dark"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathgrotti&layout=compact&theme=github_dark"/>
 </div>
