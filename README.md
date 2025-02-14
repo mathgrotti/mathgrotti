@@ -12,6 +12,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathgrotti&layout=compact&theme=github_dark"/>
 </p>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Matheus-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</div>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathgrotti/mathgrotti/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/mathgrotti/mathgrotti/output/github-contribution-grid-snake.svg)" />
