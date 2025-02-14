@@ -5,7 +5,7 @@
 - 💻 Atualmente estudando Java e Python
 - 🤝 Procuro sempre pessoas para fazer networking!
 - 🔗 >>> Meu LinkedIn: https://www.linkedin.com/in/matheusgrotti983/
-
+<br>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathgrotti&show_icons=true&theme=github_dark"/>
