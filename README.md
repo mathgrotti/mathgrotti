@@ -7,7 +7,7 @@
 - 🔗 >>> Meu LinkedIn: https://www.linkedin.com/in/matheusgrotti983/
 <br>
 
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathgrotti&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathgrotti&layout=compact&theme=github_dark"/>
 </p>
