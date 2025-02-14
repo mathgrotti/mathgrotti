@@ -19,6 +19,17 @@
   <img alt="Matheus-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </p>
 
+<div>
+  <a href="mailto:matheusgrottipereira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/matheusgrotti983/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathgrotti/mathgrotti/output/github-contribution-grid-snake-dark.svg"/>
