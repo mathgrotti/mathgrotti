@@ -17,7 +17,7 @@
   <img alt="Matheus-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Matheus-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Matheus-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Matheus-gif" src="https://media.discordapp.net/attachments/782794257085366274/1339995251871580160/ezgif-44bb80413d015a.gif?ex=67b0bf53&is=67af6dd3&hm=d94d75de8dd2c671425502fcf4acf33b36307301242e97e8aa7aeaffb59e1810&=&width=134&height=134">
+  <img align="right" alt="Matheus-gif" src="https://media.discordapp.net/attachments/782794257085366274/1340049257922691195/gojogif2resz.gif?ex=67b0f1a0&is=67afa020&hm=26f274f6b111c7b0da458f1f9cb17f06e835cec36e8104a6cf1947a1412239b7&=&width=134&height=134">
 </p>
 
   ##
