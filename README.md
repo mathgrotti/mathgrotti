@@ -1,5 +1,11 @@
 ## Olá, sou o Matheus Grotti, estudante de programação e apaixonado por tecnologia!! 😎🚀
 
+<p align="center">
+  <img alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Matheus-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</p>
+
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🎓 Formado em Gestão de Tecnologia da Informação
 - 💻 Atualmente estudando Java e Python
@@ -7,17 +13,11 @@
 - 🔗 >>> Meu LinkedIn: https://www.linkedin.com/in/matheusgrotti983/
 <br>
 
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathgrotti&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathgrotti&layout=compact&theme=github_dark"/>
 </p>
-
-<p align="center">
-  <img alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Matheus-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-</p>
-
 
 
 <picture>
